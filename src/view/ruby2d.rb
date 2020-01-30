@@ -1,3 +1,5 @@
+require "ruby2d"
+
 module View
     class Ruby2dView
         def initialize
