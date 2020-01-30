@@ -11,8 +11,7 @@ module View
             set(
                 title: "Snake", 
                 width: @pixel_size * state.grid.cols, 
-                height: @pixel_size * state.grid.rows
-            )
+                height: @pixel_size * state.grid.rows)
             show
         end
     end
